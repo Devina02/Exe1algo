@@ -12,7 +12,7 @@ namespace Exe1algo
         {
             while (true)
             {
-                Console.Write("Masukan banyaknya elemen pada array : ");
+                Console.Write("Masukan berapa banyaknya elemen pada array : ");
                 string s = Console.ReadLine();
                 n = Int32.Parse(s);
                 if (n <= 112)
